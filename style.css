@@ -13,3 +13,12 @@ body{
     width: 1350px;
     background-color: blueviolet;
 }
+
+.formulario{
+    background-color: rgb(206, 206, 206);
+    width: 60%;
+    height: 50%;
+    margin: 0 auto;
+    position: relative;
+    top: -67px;
+}

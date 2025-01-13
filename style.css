@@ -21,4 +21,29 @@ body{
     margin: 0 auto;
     position: relative;
     top: -67px;
+    padding: 20px;
+}
+
+.idade{
+    padding-top: 10px;
+}
+
+.background{
+    padding-top: 10px;
+}
+
+.items{
+    padding-top: 10px;
+}
+
+.carac{
+    padding-top: 10px;
+}
+
+.foto{
+    padding-top: 10px;
+}
+
+.enviar{
+    padding-top: 10px;
 }
